@@ -1,5 +1,8 @@
 ## Course Project
 
+[🎥 Projects how-to (watch it!)](https://www.loom.com/share/8f99d25893de4fb8aaa95c0395c740b6)
+
+
 ### Objective
 
 The goal of this project is to apply everything we have learned
@@ -63,8 +66,8 @@ Example dashboard: ![image](https://user-images.githubusercontent.com/4315804/15
 
 * Problem description
     * 0 points: Problem is not described
-    * 1 point: Problem is described but shortly or not clearly 
-    * 2 points: Problem is well described and it's clear what the problem the project solves
+    * 2 points: Problem is described but shortly or not clearly 
+    * 4 points: Problem is well described and it's clear what the problem the project solves
 * Cloud
     * 0 points: Cloud is not used, things run only locally
     * 2 points: The project is developed in the cloud
@@ -114,6 +117,17 @@ However, implementing these could significantly enhance the quality of your proj
 
 If you intend to include this project in your portfolio, adding these additional features will definitely help you to stand out from others.
 
+## Cheating and plagiarism
+
+Plagiarism in any form is not allowed. Examples of plagiarism:
+
+* Taking somebody's else notebooks and projects (in full or partly) and using it for the capstone project
+* Re-using your own projects (in full or partly) from other courses and bootcamps
+* Re-using your midterm project from ML Zoomcamp in capstone
+* Re-using your ML Zoomcamp from previous iterations of the course
+
+Violating any of this will result in 0 points for this project.
+
 ## Resources
 
 ### Datasets
@@ -125,7 +139,7 @@ Refer to the provided [datasets](datasets.md) for possible selection.
 * [Unit Tests + CI for Airflow](https://www.astronomer.io/events/recaps/testing-airflow-to-bulletproof-your-code/)
 * [CI/CD for Airflow (with Gitlab & GCP state file)](https://engineering.ripple.com/building-ci-cd-with-airflow-gitlab-and-terraform-in-gcp)
 * [CI/CD for Airflow (with GitHub and S3 state file)](https://programmaticponderings.com/2021/12/14/devops-for-dataops-building-a-ci-cd-pipeline-for-apache-airflow-dags/)
-* [CD for Terraform](https://towardsdatascience.com/git-actions-terraform-for-data-engineers-scientists-gcp-aws-azure-448dc7c60fcc)
+* [CD for Terraform](https://medium.com/towards-data-science/git-actions-terraform-for-data-engineers-scientists-gcp-aws-azure-448dc7c60fcc)
 * [Spark + Airflow](https://medium.com/doubtnut/github-actions-airflow-for-automating-your-spark-pipeline-c9dff32686b)
 
 
