@@ -2,7 +2,7 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'taxi_rides_ny'
+name: 'alpine-freedom-459008-r9'
 version: '1.0.0'
 config-version: 2
 
@@ -46,7 +46,7 @@ vars:
   payment_type_values: [1, 2, 3, 4, 5, 6]
 
 seeds: 
-    taxi_rides_ny:
+    alpine-freedom-459008-r9:
         taxi_zone_lookup:
             +column_types:
                 locationid: numeric
